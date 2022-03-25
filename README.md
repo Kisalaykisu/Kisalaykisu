@@ -2,10 +2,10 @@
 
 <h1 align="center">Hi there👋🏻, I'm Kisalay Srivastava!!</h1>
 
-<h2 align="center">A Machine Learning, Deep Learning & Da.</h2>
+<h2 align="center">A Machine Learning, Deep Learning & Big Data.</h2>
  
 [![Linkedin Badge](https://img.shields.io/badge/-Kisalaykisu-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kisalay-srivastava-46b243196/)](https://www.linkedin.com/in/kisalay-srivastava-46b243196/)
-[![Twitter Badge](https://img.shields.io/badge/-ayushi2899-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/home)](https://mobile.twitter.com/home)
+[![Twitter Badge](https://img.shields.io/badge/-kisalay_Cool95-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/home)](https://mobile.twitter.com/home)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Kisalaykisu)
 ![GitHub followers](https://img.shields.io/github/followers/Kisalaykisu?label=Follow&style=social) ![Profile views](https://github.com/Kisalaykisu) 
 
