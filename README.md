@@ -19,8 +19,6 @@
 
 ## GIT STATS
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Kisalaykisu&theme=radical" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kisalaykisu&layout=compact)](https://github.com/Kisalaykisu/github-readme-stats)
-Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
 
 ![Minion](https://octodex.github.com/images/minion.png)
