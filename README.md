@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there👋🏻, I'm Kisalay Srivastava!!</h1>
 
-<h2 align="center">A Machine Learning, Deep Learning & Big Data.</h2>
+<h2 align="center">Lover of all things web and opensource. Coding and writing stuff for humans .</h2>
  
 [![Linkedin Badge](https://img.shields.io/badge/-Kisalaykisu-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kisalay-srivastava-46b243196/)](https://www.linkedin.com/in/kisalay-srivastava-46b243196/)
 [![Twitter Badge](https://img.shields.io/badge/-kisalay_Cool95-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/home)](https://mobile.twitter.com/home)
@@ -26,10 +26,9 @@ Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 ![Minion](https://octodex.github.com/images/minion.png)
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
-Like links, Images also have a footnote style syntax
 
 ![Alt text][id]
 
-With a reference later in the document defining the URL location:
+
 
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
