@@ -1,16 +1,35 @@
 ### Hi there 👋
 
-<!--
-**Kisalaykisu/Kisalaykisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there👋🏻, I'm Kisalay Srivastava!!</h1>
 
-Here are some ideas to get you started:
+<h2 align="center">A Machine Learning, Deep Learning & Da.</h2>
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-Kisalaykisu-blue?style=plastic-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kisalay-srivastava-46b243196/)](https://www.linkedin.com/in/kisalay-srivastava-46b243196/)
+[![Twitter Badge](https://img.shields.io/badge/-ayushi2899-blue?style=plastic-square&logo=twitter&logoColor=white&link=https://www.twitter.com/home)](https://mobile.twitter.com/home)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Kisalaykisu)
+![GitHub followers](https://img.shields.io/github/followers/Kisalaykisu?label=Follow&style=social) ![Profile views](https://github.com/Kisalaykisu) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Pytorch.
+- 🌱 I’m currently learning Data Structure and Algorithms and Deep Learning.
+- 👯 I’m looking to collaborate on Real world projects.
+- 💬 Ask me about Any of your life problems, I will try to give the best way out of it.
+- 📫 How to reach me: Kisalaykisu@gmail.com
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: BETTER LATE THAN NEVER.
+
+## GIT STATS
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Kisalaykisu&theme=radical" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kisalaykisu&layout=compact)](https://github.com/Kisalaykisu/github-readme-stats)
+Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
+
+
+![Minion](https://octodex.github.com/images/minion.png)
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+
+Like links, Images also have a footnote style syntax
+
+![Alt text][id]
+
+With a reference later in the document defining the URL location:
+
+[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
