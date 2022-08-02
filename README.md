@@ -9,6 +9,12 @@ hi, i'm [Kisalay], a passionate self-taught full stack web developer and a freel
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
 
+
+![code](https://user-images.githubusercontent.com/15075906/182435973-f8247b4e-aa57-42ac-b7b0-c0293ead6384.gif)
+![code](https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg?compress=1&resize=400x300)
+
+
+
   <img align="right" alt="GIF" src="https://github.com/Kisalaykisu/Kisalaykisu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 - 💼 any freelance work? do reach, [email](mailto:kisalaykisu@gmail.com) :)
