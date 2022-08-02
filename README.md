@@ -29,7 +29,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 🌱 I’m currently learning Data Structure and Algorithms and Deep Learning.
 - 👯 I’m looking to collaborate on Real world projects.
 - 💬 Ask me about Any of your life problems, I will try to give the best way out of it.
-- 📫 How to reach me: anjaliit3010@gmail.com
+- 📫 How to reach me: kisalaykisu@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: BETTER LATE THAN NEVER.
 
