@@ -58,6 +58,21 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opencv/opencv.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between;">
+<img width="45px" align="left" style="padding: 20px" src="images/pytorch.png" />
+<img width="65px" align="left" style="padding: 10px" src="images/onnx.png"/>
+<img width="55px" align="left" style="padding: 20px" src="images/bktrt.png" />
+<img width="55px" align="left" style="padding: 20px" src="images/openvino.png" />
+<img width="65px" align="left" style="padding: 20px" src="images/neural_magic.png" />
+<!-- <img width="80px" align="left" style="padding: 20px" src="images/colab.png"/> -->
+<img width="60px" align="left" style="padding: 20px" src="images/sklearn.png" />
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+</div>
 
 📊 **this week i spent my time on:**
 <!--START_SECTION:waka-->
