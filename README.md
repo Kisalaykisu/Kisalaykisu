@@ -96,7 +96,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Kisalaykisu&show_icons=true&theme=gotham" alt="Kisalaykisu" />
 
 
-
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 ![Minion](https://octodex.github.com/images/minion.png)
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
