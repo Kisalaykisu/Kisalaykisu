@@ -1,6 +1,11 @@
 
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
+
+
 <h1 align="center">Hi there👋🏻, I'm Kisalay !!</h1>
 
 <h2 align="center">Lover of all things web and opensource. Coding and writing stuff for humans .</h2>
