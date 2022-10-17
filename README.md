@@ -26,6 +26,21 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 ![code](https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg?compress=1&resize=400x300)
 
 
+<summary><b>🔥 Github Streaks</b></summary>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dragonstar41&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="dragonstar41" /></p>
+
+
+<summary><b>📊 Github Contribution Graph</b></summary>
+<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dragonstar41&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
+<!-- </details>
+<details>    -->
+ <summary><b>🏆 Github Achievements</b></summary>
+<p align="center"> <a href="https://github.com/dragonstar41"><img src="https://github-profile-trophy.vercel.app/?username=dragonstar41&margin-w=5&theme=radical" alt="dragonstar41" /></a> </p>
+
+<br>
+
+
+
 
   <img align="right" alt="GIF" src="https://github.com/Kisalaykisu/Kisalaykisu/blob/master/code.gif?raw=true" width="500" height="320" />
   
